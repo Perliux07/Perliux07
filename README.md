@@ -1,0 +1,4 @@
+- Holis, soy Perliux07 y este es mi primer repositorio.
+- Me gusta el futbol 
+- Soy bailarina profesional 
+- Y estudio mecatronica 
